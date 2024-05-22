@@ -1,0 +1,6 @@
+surprise
+scipy
+numpy
+pandas
+matplotlib
+scikit-learn
